@@ -1,0 +1,20 @@
+body{
+    background-image:url(./image/SpryMeatyHen-max-1mb.gif);
+    text-align: center;
+    text-size-adjust: auto;
+}
+img{
+    width: 300px;
+    border-radius: 20px;
+}
+table, th, td{
+    border: 1px solid pink;
+    border-collapse: collapse;
+}
+td, th{
+    padding: 20px;
+    text-align: center;
+}
+th, td{
+    color: pink;
+}
